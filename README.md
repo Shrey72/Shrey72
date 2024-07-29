@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shrey72
-- 👀 I’m interested in Data science
-- 🌱 I’m currently learning (won't tell)
+- 
+- 🌱 I’m currently learning
 - 📫 How to reach me (X username-@Shre__72)
 
 <!---
