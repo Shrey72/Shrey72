@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Shrey72
-- 
 - 🌱 I’m currently learning
 - 📫 How to reach me (X username-@Shre__72)
 
